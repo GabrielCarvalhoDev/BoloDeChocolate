@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color: #88100f;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+h3{
+    color: #88100f;
+    text-decoration: underline;
+}
